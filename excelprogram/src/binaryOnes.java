@@ -10,6 +10,7 @@ public static void main(String[] args)
 	if(number>0)
 	{
 		ones=binaryZeros(number);
+		System.out.println("printing.......");
 		System.out.println(ones);
 	}
 	else
