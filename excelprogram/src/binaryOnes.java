@@ -5,7 +5,7 @@ private static Scanner input=new Scanner(System.in);
 public static void main(String[] args)
 {
 	int number,ones;
-	System.out.println("enter a number");
+	System.out.println("enter a number to find binary ones");
 	number=input.nextInt();
 	if(number>0)
 	{
